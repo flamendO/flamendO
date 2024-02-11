@@ -1,5 +1,17 @@
 <h2 align="center">Welcome to flamendO's profile</h2>
 
+<h3 align="center">I'm a beginner developer passionated about machine learning and IT/network security</h3>
+
+- 🔭 I’m currently working on [TOBASHI](https://github.com/flamendO/TOBASHI-)
+
+- 🌱 I’m currently learning **Malware Development / Deep Learning**
+
+- 📫 You can contact me with **flamendO@proton.me**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
 ###
 
 <div align="center">
