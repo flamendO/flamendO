@@ -1,6 +1,6 @@
 <h2 align="center">Welcome to flamendO's profile</h2>
 
-<h3 align="center">I'm a beginner developer passionated about machine learning and IT/network security</h3>
+<h3 align="center">I'm a beginner developer passionated about image processing, machine learning and IT/network security</h3>
 
 - 🔭 I’m currently working on [TOBASHI](https://github.com/flamendO/TOBASHI-)
 
